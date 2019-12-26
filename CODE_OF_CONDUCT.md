@@ -26,7 +26,7 @@ Examples of behavior that interferes with creating a positive environment includ
 
 ***FILL THIS OUT PER PROJECT***
 
-## Projections
+## Protections
 
 All contributors and maintainers are to be warned, with detailed explanation and citation of their CoC violation, and be asked to correct it, before corrective or disciplinary action is made against them, excluding cases of generally illegal activity. This exception is intended to cover situations such as hacking into another contributor or maintainers device, assault or battery against another contributor or maintainer, etc. It is not intended to cover petty crime or misdemeanors unrelated to this project.
 
